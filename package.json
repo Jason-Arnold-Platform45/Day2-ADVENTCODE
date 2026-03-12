@@ -1,0 +1,26 @@
+{
+  "name": "day1-adventcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-Arnold-Platform45/Day1-AdventCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jason-Arnold-Platform45/Day1-AdventCode/issues"
+  },
+  "homepage": "https://github.com/Jason-Arnold-Platform45/Day1-AdventCode#readme",
+  "devDependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
